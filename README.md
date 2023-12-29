@@ -13,6 +13,8 @@ This project requires Python 3 and the following Python libraries installed:
 - nltk
 - Matplotlib
 
-![App Screenshot1]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/saparayajaychandra/SMS_Spam_Classification/blob/main/Screenshot%201.jpg)https://github.com/saparayajaychandra/SMS_Spam_Classification/blob/main/Screenshot%201.jpg)
+### Spam
+![App Screenshot1](https://github.com/saparayajaychandra/SMS_Spam_Classification/blob/main/Screenshot%201.jpg)
 
-![App Screenshot1]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/saparayajaychandra/SMS_Spam_Classification/blob/main/Screenshot%202.jpg)https://github.com/saparayajaychandra/SMS_Spam_Classification/blob/main/Screenshot%202.jpg)
+### Not Spam
+![App Screenshot1](https://github.com/saparayajaychandra/SMS_Spam_Classification/blob/main/Screenshot%202.jpg)
